@@ -7,6 +7,6 @@ layout: page
 
 ## Tutorial
 
-{% endfor %}
+
 ## Extra Information
 
