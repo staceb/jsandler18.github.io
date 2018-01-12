@@ -5,8 +5,4 @@
 layout: page
 ---
 
-## Tutorial
-
-
-## Extra Information
 
